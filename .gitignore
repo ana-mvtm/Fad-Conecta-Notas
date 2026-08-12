@@ -1,0 +1,13 @@
+# Maven
+target/
+backend/target/
+
+# Ferramentas locais (Maven baixado para dev)
+tools/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
